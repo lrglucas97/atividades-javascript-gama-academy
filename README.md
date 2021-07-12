@@ -14,3 +14,7 @@
 
   - Converte graus Celsius em Fahrenheit
 
+### ***Avançado***
+
+- **Jukebox do Metal**
+  - Seleciona álbuns de acordo com o gênero escolhido
